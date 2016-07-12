@@ -1,0 +1,41 @@
+#error{
+    width:500px;
+    height:150px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin-top:-75px;
+    margin-left:-250px;
+    border:1px solid #ccc;
+    background:url(error.png) 30px 40px no-repeat;
+}
+#error .title{
+    width: 100%;
+    height:30px;
+    background:#ccc;
+    line-height:30px;
+    text-indent:10px;
+    border-bottom:5px solid #303442;
+    color:#303442;
+    font-size:12px;
+}
+#error .text{
+    width:300px;
+    height:60px;
+    font-size:12px;
+    margin:30px;
+    float:right;
+    line-height:20px;
+    text-indent: 2em;
+}
+#error .url{
+    position:absolute;
+    right:20px;
+    bottom:20px;
+    text-align: center;
+    font-size:12px;
+}
+#error .url a{
+    color:#f00;
+    text-decoration:none;
+}

@@ -1,0 +1,28 @@
+
+body{ font-size:14px;}
+input{ vertical-align:middle; margin:0; padding:0}
+.file_box{position:absolute; width:350px; height:50px; top:50%; left:50%; margin-top:-25px; margin-left:-165px;}
+.txt{ height:22px; border:1px solid #cdcdcd; width:180px;}
+.btn{ background-color:#FFF; border:1px solid #CDCDCD;height:24px; width:70px;}
+.file{ position:absolute; top:0; right:80px; height:24px; filter:alpha(opacity:0);opacity:0;width:260px }
+.info{ font-size:12px;margin-top:10px;}
+
+.upload img{
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin-top:-29px;
+	margin-left:-110px;
+}
+.upload p{
+	position:absolute;
+	width:220px;
+	height:19px;
+	line-height:19px;
+	text-align:center;
+	top:50%;
+	left:50%;
+	margin-top:-10px;
+	margin-left:-110px;
+	font-size:12px;
+}

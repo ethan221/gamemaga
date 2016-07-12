@@ -1,0 +1,30 @@
+[ 2016-06-29T16:31:37+08:00 ] 127.0.0.1 /upload/magaico/20140308053253.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-06-29T16:31:39+08:00 ] 127.0.0.1 /upload/magaico/20140308053253.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-06-29T16:31:46+08:00 ] 127.0.0.1 /upload/magaico/20140308053253.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-06-29T16:31:51+08:00 ] 127.0.0.1 /upload/20140308053255/20140308093457.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-06-29T17:18:42+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Favicon
+
